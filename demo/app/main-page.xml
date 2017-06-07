@@ -1,5 +1,5 @@
-<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="navigatingTo" class="page">
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:btn="nativescript-my-button" navigatingTo="navigatingTo" class="page">
     <StackLayout class="p-20" id="st">
-        <Label text="Demo plugin test" class="h1 text-center"/>
+        <btn:MyButton text="Demo plugin test" class="h1 text-center"/>
     </StackLayout>
 </Page>
