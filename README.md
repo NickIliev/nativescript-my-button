@@ -1,1 +1,1 @@
-"# nativescript-my-button" 
+# Creating UI demo plugin using NativeScript 3.x.x new property system
