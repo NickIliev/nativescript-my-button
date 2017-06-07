@@ -1,0 +1,7 @@
+android {
+  productFlavors {
+    "nativescript-my-button" {
+      dimension "nativescript-my-button"
+    }
+  }
+}
